@@ -1,4 +1,4 @@
-# Python Hands-On Tasks for DevOps Beginners  
+# Python Hands-On Tasks
 
 ## 1. System Monitoring Script  
 📌 **Task:** Use an appropiate Python library to display CPU and memory usage.  
@@ -42,7 +42,5 @@ Found 5 occurrences of 'ERROR' in logs.
 ---
 
 🚀 **Submission Guidelines:**  
-- Push them to GitHub or submit via your preferred method.  
-- Feel free to ask questions or request guidance.  
-
-👨‍💻 **Happy Coding!** 🚀🔥  
+- Push them to GitHub and submit your repo url
+- Feel free to ask questions
