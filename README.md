@@ -1,12 +1,13 @@
 # Python Hands-On Tasks for DevOps Beginners  
 
 ## 1. System Monitoring Script  
-📌 **Task:** Use Python’s `psutil` library to display CPU and memory usage.  
+📌 **Task:** Use an appropiate Python library to display CPU and memory usage.  
 ✅ **Instructions:**  
-- Install `psutil` using `pip install psutil`.  
+- Install `python lib` using `pip`.  
 - Write a script that prints CPU and memory usage every few seconds.  
 - Example output:  
-CPU Usage: 35% Memory Usage: 60%
+CPU Usage: 35% 
+Memory Usage: 60%
 
 - **Bonus:** Extend the script to log this data into a file for future analysis.  
 
@@ -16,7 +17,6 @@ CPU Usage: 35% Memory Usage: 60%
 📌 **Task:** Write a Python script that fetches weather data from an API and processes the response.  
 ✅ **Instructions:**  
 - Sign up at [OpenWeatherMap](https://home.openweathermap.org/users/sign_up) and get a free API key.  
-- Install `requests` using `pip install requests`.  
 - Fetch weather details (temperature, weather condition, humidity) for a given city.  
 - Example output:  
 Weather in Lagos: 
