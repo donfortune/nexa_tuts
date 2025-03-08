@@ -36,7 +36,7 @@
 
 # Managing Packages with PyPI and pip
 
-# Demo Project: Automating Tasks with Python (Spreadsheet Example)
+# Demo Project: Automating Tasks with Python Scripts
 
 # Introduction to Classes and Objects
 
