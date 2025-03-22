@@ -1,5 +1,5 @@
 
-# Python Hands-On Tasks
+# Python Hands-On Task
 
 ## 1. System Monitoring Script  
 📌 **Task:** Use an appropiate Python library to display CPU and memory usage.  
